@@ -1,0 +1,182 @@
+W.o.w :
+Races - 
+
+"Blood elf" 
+"Dark Iron" 
+"Draenei""Dwarf"
+"Gnome"
+"Goblin"
+"Highmountain"
+"Human"
+"Kul Tiran"
+"Lightforged"
+"Mag'har"
+"Night elf"
+"Nightborne"
+"Orc"
+"Pandaren"
+"Tauren"
+"Troll"
+"Void elf"
+"Worgen"
+"Zandalari"
+
+
+
+Heros - 
+
+"Anduin Lothar"
+"Antonidas"
+"Archimonde"
+"Blackhand"
+"Bolvar Fordragon"
+"Brann Bronzebeard"
+"Durotan"
+"Garona Halforcen"
+"Illidan Stormrage"
+"Jaina Proudmoore"
+"Kael'thas Sunstrider"
+"Khadgar"
+"Kil'jaeden"
+"King Llane Wrynn"
+"Lady Taria"
+"Mal'Ganis"
+"Malfurion Stormrage"
+"Mannoroth"
+"Medivh"
+"Millhouse Manastorm"
+"Moroes"
+"Ner'zhul"
+"Orgrim Doomhammer"
+"Sargeras"
+"Sylvanas Windrunner"
+"Uther the Lightbringer"
+
+
+Class Names -
+
+"Death Knight"
+"Demon Hunter"
+"Druid"
+"Hunter"
+"Mage"
+"Monk"
+"Paladin"
+"Priest"
+"Rogue"
+"Shaman"
+"Warlock"
+"Warrior"
+
+
+WarHammer:
+
+Heros-
+
+"Abhorash"
+"Adohi-Tehga Lord of Tlaxtlan\"
+"Alith Anar\"
+"An'ggrath the Unbound\"
+"Archaon\
+"Ariel\", 
+"Azhag the Slaughterer\"
+"Balthasar Gelt\"
+"Borgio the Besieger\"
+"Boris Todbringer\",
+"Crom the Conqueror\",
+"Detlef Sierc\",
+"Fay Enchantress\",
+"Feytor the Tainted\",
+"Galrauch\",
+"Genevieve Dieudonnè\",
+"Gorfang Rotgut\",
+"High Priest Herak\",
+"King Kazador\", 
+"Kouran Darkhand\",
+"Krell, Lord of Undeath\", 
+"Kurt Helborg\", 
+"Lokhir Fellheart\",
+"Lord Skrolk\",
+"Lurk Snitchtongue\",
+"Magnus the Pious\",
+"Marius Leitdorf\",
+"Mathias Thulmann\", 
+"Melkhior\",
+"Naestra & Arahan\",
+"Nakai\",
+"Neferata\", 
+"Sigmar Heldenhammer\", 
+"Skarsnik & Gobbla\",
+"Skrag the Slaughterer\",
+"Tetto'Eko\",
+"Throg\",
+"Tretch Craventail\",
+"Valkia the Blooded\",
+"Valmir von Raukov\",
+"Walach\",
+"Warlord Queek\"
+
+ Faction-
+
+"Beasts of Chaos\",
+"Bretonnia\",
+"Chaos Dwarfs\", 
+"Daemons of Chaos\", 
+"Dark Elves\", 
+"Dogs of War\",
+"Dwarfs\",
+"High Elves\", 
+"Kislev\", 
+"Lizardmen\",
+"Ogre Kingdoms\", 
+"Orcs & Goblins\",
+"Skaven\", 
+"Tomb Kings\", 
+"Vampire Counts\",
+"Warriors of Chaos\", 
+"Wood Elves\"]"
+
+
+Creature-
+
+"Bat\",
+"Beast of Nurgle\",
+"Black Orc\",
+"Bloodletter of Khorne\",
+"Boar\",
+"Carnivorous Snapper\", 
+"Chameleoleech\",
+"Chaos Hound\",
+"Chaos Spawn\",
+"Chimera\",
+"Coatl\", 
+"Cold One\", 
+"Dark Elf\",
+"Doppelganger\",
+"Dragon Ogre\",
+"Dragon Turtle\", 
+"Dryad\", 
+"Dwarf\", 
+"Flamer of Tzeentch\", 
+"Fleshhound of Khorne\", 
+"Giant\", 
+"Giant Leech\", 
+"Giant Rat\",
+"Goblin\", 
+"Gorgon\", 
+"Great Unclean One\", 
+"Harpy\",
+"Hippogriff\",
+"Hobgoblin\",
+"Human\", 
+"Juggernaut of Khorne\",
+"Mount of Slaanesh\", 
+"Mutant\", 
+"Nurglings\", 
+"Plaguebearer of Nurgle\", 
+"Razorbill\",
+"Slann\",
+"Snake\", 
+"Troll\", 
+"Unicorn\", 
+"Wyvern\"
