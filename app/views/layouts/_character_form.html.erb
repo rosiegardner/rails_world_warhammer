@@ -1,0 +1,15 @@
+<%= render "layouts/errors", :object => @character %>
+
+<%= form_for [@user, @character] do |f| %>
+  <%= f.label :war_name %>
+  <%= f.text_field :war_name %>
+  <%= f.label :war_race %>
+  <%= f.select :war_race, [["Blood Elf", "Blood Elf"],["Dragon Turtle", "Dragon Turtle"],["Chimera", "Chimera"], ["Troll", "Troll"]] %>
+  <%= f.label :war_class %>
+  <%= f.select :war_class, [["Beasts of Chaos", "Beasts of Chaos"], ["Vampire Counts", "Vampire Counts"], ["Warlock", "Warlock"]] %>
+  <%= f.label :war_cost %>
+  <%= f.number_field :war_cost %>
+  <%= f.label :war_strength %>
+  <%= f.number_field :war_strength %>
+  <%= f.submit %>
+<% end %>

@@ -13,8 +13,9 @@
 
     <div class='registration'>
     <% if user_signed_in? %>
-      <p> <%= link_to "Edit Account", edit_user_registration_path %></p>
-      <p> <%= link_to "Sign Out", destroy_user_session_path, method: :delete %></p>
+      <%= current_user.email %>
+      <%= link_to "Edit Account", edit_user_registration_path %>
+      <%= link_to "Sign Out", destroy_user_session_path, method: :delete %>
     <% else %>
       <p><%= link_to "Sign-In/Sign-Up", new_user_session_path %></p>
     <% end %>
