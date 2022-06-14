@@ -12,10 +12,13 @@
   <body>
 
     <div class='registration'>
+    <%= link_to "Home", "/"%>
     <% if user_signed_in? %>
-      <%= current_user.email %>
+      
       <%= link_to "Edit Account", edit_user_registration_path %>
+      <%= current_user.email %>
       <%= link_to "Sign Out", destroy_user_session_path, method: :delete %>
+      
     <% else %>
       <p><%= link_to "Sign-In/Sign-Up", new_user_session_path %></p>
     <% end %>
