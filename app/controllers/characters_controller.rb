@@ -33,7 +33,7 @@ class CharactersController < ApplicationController
   def update
     @character = Character.find(params[:id])
     if @character.update(character_params)
-      redirect_to character_path(@character.user)
+      redirect_to user_path(@character.user)
     else
       @user = User.find(params[:user_id])
       render :edit
