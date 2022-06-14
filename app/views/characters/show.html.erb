@@ -1,0 +1,13 @@
+<h1>Character: <%= @character.war_name %></h1>
+<h2>User: <%= @user.email %></h2>
+<h3>War Race: <%= @character.war_race %></h3>
+<h3>War Class: <%= @character.war_class %></h3>
+<h3>War Cost: <%= @character.war_cost %></h3>
+<h3>War Strength: <%= @character.war_strength %></h3>
+
+<p><%= link_to "Edit character", edit_user_character_path(@user, @character) %></p>
+<p><%= link_to "Delete character", user_character_path(@user, @character),
+                                  :data => {:confirm => "Are you sure?",
+                                                    :method => "delete"} %></p>
+
+<p><%= link_to "Return to User", user_path(@user) %></p>
