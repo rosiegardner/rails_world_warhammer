@@ -1,0 +1,24 @@
+<h1><%= @user.email %></h1>
+
+<% if @user.characters.any? %>
+  <h4>Here are the characters for this user:<h4>
+
+  <% @user.characters.each do |char| %>
+    <ul>
+      <li>
+        <%= link_to char.war_name, user_character_path(@user, char) %>
+      </li>
+    </ul>
+  <% end %>
+<% else %>
+  <p>No characters for this user.</p>
+<% end %>
+
+<p><%= link_to "Add a character", new_user_character_path(@user) %></p>
+
+<p><%= link_to "Edit", edit_user_path(@user) %></p>
+<p><%= link_to "Delete", user_path(@user),
+                          :data => {:comfirm => "You sure?",
+                                    :method => "delete"} %></p>
+
+<p><%= link_to "Return to users", users_path %></p>
